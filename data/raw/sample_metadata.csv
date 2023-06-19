@@ -1,0 +1,13 @@
+﻿barcode,mouse_condition,mtb_condition,replicate,unique_sample_id
+BC1,Null,Uninfected,1,Null_Uninfected_1
+BC2,Null,Uninfected,2,Null_Uninfected_2
+BC3,TLR2KO,Uninfected,1,TLR2KO_Uninfected_1
+BC4,TLR2KO,Uninfected,2,TLR2KO_Uninfected_2
+BC5,Null,H37Rv,1,Null_H37Rv_1
+BC6,Null,H37Rv,2,Null_H37Rv_2
+BC7,TLR2KO,H37Rv,1,TLR2KO_H37Rv_1
+BC8,TLR2KO,H37Rv,2,TLR2KO_H37Rv_2
+BC9,Null,PDIMKO,1,Null_PDIMKO_1
+BC10,Null,PDIMKO,2,Null_PDIMKO_2
+BC11,TLR2KO,PDIMKO,1,TLR2KO_PDIMKO_1
+BC12,TLR2KO,PDIMKO,2,TLR2KO_PDIMKO_2
